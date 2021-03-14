@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a UBC master's of data science - computational linguistic candidate.
+
 <!--
 **jinjin-tonic/jinjin-tonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
