@@ -5,9 +5,10 @@ I am a master's of data science - computational linguistic candidate at UBC.
 - 📫 How to reach me: miroirs299@gmail.com
 - 🌱 I’m currently learning data science, specialized in compuational linguistics. 
 - ⚡ Fun fact: 
+  - My undergraduate background is Korean literature and language; I love history of languages and old literatures!
   - I speak Korean, English, Japanese, and basic French (my goal is to reach B2 level in two years!). 
   - I love playing piano and listening to classical music. 
-  - I enjoy video games, especially nintendo games. 
+  - I enjoy video games, especially nintendo games.
 
 <!--
 **jinjin-tonic/jinjin-tonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
