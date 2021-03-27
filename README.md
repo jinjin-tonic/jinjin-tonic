@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-I am a UBC master's of data science - computational linguistic candidate.
+I am a master's of data science - computational linguistic candidate at UBC.
+- 😄 Pronouns: she/her
+- 📫 How to reach me: miroirs299@gmail.com
+- 🌱 I’m currently learning data science, specialized in compuational linguistics. 
+- ⚡ Fun fact: 
+  - I speak Korean, English, Japanese, and basic French (my goal is to reach B2 level in two years!). 
+  - I love classical music, K-POP, and playing piano.
+  - I enjoy video games, especially nintendo games. 
 
 <!--
 **jinjin-tonic/jinjin-tonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
