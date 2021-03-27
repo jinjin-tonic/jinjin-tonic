@@ -6,7 +6,7 @@ I am a master's of data science - computational linguistic candidate at UBC.
 - 🌱 I’m currently learning data science, specialized in compuational linguistics. 
 - ⚡ Fun fact: 
   - I speak Korean, English, Japanese, and basic French (my goal is to reach B2 level in two years!). 
-  - I love classical music, K-POP, and playing piano.
+  - I love playing piano and listening to classical music. 
   - I enjoy video games, especially nintendo games. 
 
 <!--
