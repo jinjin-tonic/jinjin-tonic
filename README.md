@@ -2,7 +2,7 @@
 
 I am a master's of data science - computational linguistic candidate at UBC.
 - 😄 Pronouns: she/her
-- 📫 How to reach me: miroirs299@gmail.com
+- 📫 How to reach me: haejin2909@gmail.com
 - 🌱 I’m currently learning data science, specialized in compuational linguistics. 
 - ⚡ Fun fact: 
   - My undergraduate background is Korean literature and language; I love history of languages and old literatures!
