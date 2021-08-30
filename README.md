@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am a master's of data science - computational linguistic candidate at UBC.
+I am an AI developer at Heyday by Hootsuite.
 - 😄 Pronouns: she/her
 - 📫 How to reach me: haejin2909@gmail.com
-- 🌱 I’m currently learning data science, specialized in compuational linguistics. 
+- 🌱 I am currently working on several chatbot projects for e-commerce clients.
 - ⚡ Fun fact: 
   - My undergraduate background is Korean literature and language; I love history of languages and old literatures!
   - I speak Korean, English, Japanese, and basic French (my goal is to reach B2 level in two years!). 
