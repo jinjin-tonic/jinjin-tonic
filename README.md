@@ -3,10 +3,10 @@
 I am an AI developer at Heyday by Hootsuite.
 - 😄 Pronouns: she/her
 - 📫 How to reach me: haejin2909@gmail.com
-- 🌱 I am currently working on several chatbot projects for e-commerce clients.
+- 🌱 I am currently working on NLU/NLP projects as an AI developer.
 - ⚡ Fun fact: 
   - My undergraduate background is Korean literature and language; I love history of languages and old literatures!
-  - I speak Korean, English, Japanese, and basic French (my goal is to reach B2 level in two years!). 
+  - I speak Korean, English, Japanese, and basic French (at some point I will reach B2 level... 😅). 
   - I love playing piano and listening to classical music. 
   - I enjoy video games, especially nintendo games.
 
